@@ -24,7 +24,7 @@ vox_compute_composite_fragments_params(vcl_string algo_name) :
   this->input_object_name_.
       set_values(this->param_list_, 
                  "io", "input_object_name",
-                 "input_object_name", "dummy", "dymmy",
+                 "input_object_name", "dummy", "dummy",
                  0, // for 0th input object
                  dborl_parameter_system_info::INPUT_OBJECT_STRING_ID);
 
